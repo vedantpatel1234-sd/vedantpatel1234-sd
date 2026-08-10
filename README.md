@@ -28,7 +28,6 @@
 
 <div align="center">
 
-[![Views](https://komarev.com/ghpvc/?username=vedantpatel1234-sd&style=flat-square&color=22D3EE&labelColor=0A0E1A&label=Profile+Views)](https://github.com/vedantpatel1234-sd)
 [![Followers](https://img.shields.io/github/followers/vedantpatel1234-sd?style=flat-square&color=22D3EE&labelColor=0A0E1A&logo=github&label=Followers)](https://github.com/vedantpatel1234-sd)
 [![Stars](https://img.shields.io/github/stars/vedantpatel1234-sd?style=flat-square&color=22D3EE&labelColor=0A0E1A&logo=github&label=Stars)](https://github.com/vedantpatel1234-sd)
 
@@ -167,7 +166,7 @@ graduating: August 2026
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedantpatel1234-sd&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&bg_color=0A0E1A" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=vedantpatel1234-sd&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&bg_color=0A0E1A" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantpatel1234-sd&hide_border=true&background=0A0E1A&stroke=22D3EE&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0" />
 
@@ -175,7 +174,7 @@ graduating: August 2026
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpatel1234-sd&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE&text_color=E2E8F0&bg_color=0A0E1A" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vedantpatel1234-sd&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE&text_color=E2E8F0&bg_color=0A0E1A" />
 
 </div>
 
@@ -185,7 +184,7 @@ graduating: August 2026
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vedantpatel1234-sd&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=vedantpatel1234-sd&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
