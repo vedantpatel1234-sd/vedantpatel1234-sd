@@ -19,6 +19,21 @@
 
 </div>
 
+<div align="center">
+
+[![Diploma](https://img.shields.io/badge/M.S.%20Computer%20%26%20Info%20Systems-SAIT-A78BFA?style=flat-square&labelColor=0A0E1A&color=A78BFA&logo=graduation-cap&logoColor=22D3EE)](https://www.sait.ca)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D_Calgary%2C_AB-22D3EE?style=flat-square&labelColor=0A0E1A)](https://github.com/vedantpatel1234-sd)
+
+</div>
+
+<div align="center">
+
+[![Views](https://komarev.com/ghpvc/?username=vedantpatel1234-sd&style=flat-square&color=22D3EE&labelColor=0A0E1A&label=Profile+Views)](https://github.com/vedantpatel1234-sd)
+[![Followers](https://img.shields.io/github/followers/vedantpatel1234-sd?style=flat-square&color=22D3EE&labelColor=0A0E1A&logo=github&label=Followers)](https://github.com/vedantpatel1234-sd)
+[![Stars](https://img.shields.io/github/stars/vedantpatel1234-sd?style=flat-square&color=22D3EE&labelColor=0A0E1A&logo=github&label=Stars)](https://github.com/vedantpatel1234-sd)
+
+</div>
+
 <br>
 
 ## `> whoami`
@@ -65,7 +80,7 @@ OPEN_TO  =  Junior Software Developer / New Grad roles
 
 <br>
 
-## `> ls /projects --featured`
+## `> ls /projects --sort=impact`
 
 <details open>
 <summary><b>&#9654; CourseSync &mdash; Instructor-Course Assignment System</b></summary>
@@ -113,7 +128,20 @@ Set up a CI/CD pipeline connected to Git and GitHub for automatic redeployment o
 
 <br>
 
-## `> cat education.yaml`
+## `> echo $ACHIEVEMENTS`
+
+| Win | Detail |
+| :-- | :-- |
+| ▮ **Shipped end-to-end** | CourseSync — 13+ table PostgreSQL schema, weighted scoring engine, AI feature, CI/CD, live |
+| ▮ **AI Integration** | Anthropic Claude API wired into a production feature, not just a demo |
+| ▮ **Strong Academics** | 3.63 / 4.0 GPA in Software Development at SAIT |
+| ▮ **Full-Stack Range** | Comfortable across React/TypeScript front-ends, relational DB design, and REST APIs |
+| ▮ **5 Certifications** | IBM Full Stack, Git Essentials, Blazor/.NET MAUI, C, and OOP with C++ |
+| ▮ **Always Shipping** | Live personal portfolio + CourseSync both deployed with automatic CI/CD |
+
+<br>
+
+## `> git log --oneline /education`
 
 ```yaml
 diploma: Software Development
@@ -135,7 +163,7 @@ graduating: August 2026
 
 <br>
 
-## `> github --stats`
+## `> git stats --global`
 
 <div align="center">
 
@@ -147,23 +175,53 @@ graduating: August 2026
 
 <div align="center">
 
-<img src="https://github-readme-trophies.vercel.app/?username=vedantpatel1234-sd&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpatel1234-sd&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE&text_color=E2E8F0&bg_color=0A0E1A" />
 
 </div>
 
 <br>
 
-## `> github --activity`
+## `> trophy-case --display`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantpatel1234-sd&bg_color=0A0E1A&color=22D3EE&line=A78BFA&point=E2E8F0&area=true&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=vedantpatel1234-sd&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
+
+<br>
+
+## `> activity-graph --timeline`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantpatel1234-sd&bg_color=0A0E1A&color=22D3EE&line=A78BFA&point=E2E8F0&area=true&area_color=1A2B4A&hide_border=true" />
+
+</div>
+
+<br>
+
+## `> contribution-report --detailed`
 
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantpatel1234-sd&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantpatel1234-sd&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantpatel1234-sd&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedantpatel1234-sd&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedantpatel1234-sd&theme=github_dark&utcOffset=-6" />
+
+</div>
+
+<br>
+
+## `> ./snake-animation.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vedantpatel1234-sd/vedantpatel1234-sd/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
