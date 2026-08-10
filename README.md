@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0E1A&fontColor=22D3EE&text=%3E_%20Vedant%20Patel&fontSize=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20AI&descColor=A78BFA&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0E1A&height=280&fontColor=22D3EE&fontAlignY=35&fontSize=42&text=%3E_%20Vedant%20Patel&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20AI&descAlignY=58&descSize=18&descColor=A78BFA&animation=fadeIn" />
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Diploma](https://img.shields.io/badge/M.S.%20Computer%20%26%20Info%20Systems-SAIT-A78BFA?style=flat-square&labelColor=0A0E1A&color=A78BFA&logo=graduation-cap&logoColor=22D3EE)](https://www.sait.ca)
+[![Diploma](https://img.shields.io/badge/Diploma%2C%20Software%20Development-SAIT-A78BFA?style=flat-square&labelColor=0A0E1A&color=A78BFA)](https://www.sait.ca)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D_Calgary%2C_AB-22D3EE?style=flat-square&labelColor=0A0E1A)](https://github.com/vedantpatel1234-sd)
 
 </div>
@@ -169,7 +169,7 @@ graduating: August 2026
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=vedantpatel1234-sd&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&bg_color=0A0E1A" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantpatel1234-sd&hide_border=true&background=0A0E1A&stroke=22D3EE&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=E2E8F0" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantpatel1234-sd&hide_border=true&background=0A0E1A&stroke=22D3EE&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0" />
 
 </div>
 
@@ -207,13 +207,16 @@ graduating: August 2026
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantpatel1234-sd&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantpatel1234-sd&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantpatel1234-sd&theme=github_dark" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedantpatel1234-sd&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedantpatel1234-sd&theme=github_dark&utcOffset=-6" />
 
 </div>
+
+<!-- More summary cards (repos-per-language, most-commit-language, productive-time)
+     can be added back once there's more commit history for them to compute from:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantpatel1234-sd&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantpatel1234-sd&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedantpatel1234-sd&theme=github_dark&utcOffset=-6" />
+-->
 
 <br>
 
