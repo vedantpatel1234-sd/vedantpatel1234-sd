@@ -180,16 +180,6 @@ graduating: August 2026
 
 <br>
 
-## `> trophy-case --display`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vedantpatel1234-sd&theme=algolia&no-frame=true&column=7" />
-
-</div>
-
-<br>
-
 ## `> activity-graph --timeline`
 
 <div align="center">
