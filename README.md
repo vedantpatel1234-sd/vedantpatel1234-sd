@@ -15,6 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-22D3EE?style=for-the-badge&logo=vercel&logoColor=0A0E1A&labelColor=0A0E1A)](https://vedant-portfolio-five-sigma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0A0E1A&labelColor=0A0E1A)](https://www.linkedin.com/in/vedant-patel-aa2729325/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-60A5FA?style=for-the-badge&logo=gmail&logoColor=0A0E1A&labelColor=0A0E1A)](mailto:pvedu2006@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-22D3EE?style=for-the-badge&logo=readdotcv&logoColor=0A0E1A&labelColor=0A0E1A)](https://github.com/vedantpatel1234-sd/vedantpatel1234-sd/blob/main/Vedant_Patel_Resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E1A&labelColor=0A0E1A)](https://github.com/vedantpatel1234-sd)
 
 </div>
@@ -198,14 +199,12 @@ graduating: August 2026
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedantpatel1234-sd&theme=github_dark" />
 
-</div>
-
-<!-- More summary cards (repos-per-language, most-commit-language, productive-time)
-     can be added back once there's more commit history for them to compute from:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantpatel1234-sd&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantpatel1234-sd&theme=github_dark" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedantpatel1234-sd&theme=github_dark&utcOffset=-6" />
--->
+
+</div>
 
 <br>
 
@@ -243,6 +242,7 @@ open_to:
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-22D3EE?style=for-the-badge&logo=vercel&logoColor=0A0E1A&labelColor=0A0E1A)](https://vedant-portfolio-five-sigma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0A0E1A&labelColor=0A0E1A)](https://www.linkedin.com/in/vedant-patel-aa2729325/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-60A5FA?style=for-the-badge&logo=gmail&logoColor=0A0E1A&labelColor=0A0E1A)](mailto:pvedu2006@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-22D3EE?style=for-the-badge&logo=readdotcv&logoColor=0A0E1A&labelColor=0A0E1A)](https://github.com/vedantpatel1234-sd/vedantpatel1234-sd/blob/main/Vedant_Patel_Resume.pdf)
 
 </div>
 
